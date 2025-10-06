@@ -38,5 +38,9 @@ This dashboard enables business leaders to identify profitable product lines, op
 
 📸 Preview
 
-Show what the dashboard look like: 
+
+
+> *(Add a screenshot in repo and update this path)*  
+![Dashboard Preview](Snapshot of the dashboard.png).
+ 
 ![Dashboard Preview](Snapshot of the dashboard.png)
