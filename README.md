@@ -36,4 +36,5 @@ This dashboard enables business leaders to identify profitable product lines, op
 
 **Keywords :** Power BI, Data Visualization, Business Intelligence, Sales Dashboard, Blinkit, DAX, Power Query, Interactive Dashboard.
 
-Show what the dashbaord look like : https://github.com/berlin2809/Blinkit-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
+Show what the dashbaord look like : ![Alt text](https://github.com/berlin2809/Blinkit-Dashboard/edit/main/Snapshot of the dashboard.png)
+https://github.com/berlin2809/Blinkit-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
