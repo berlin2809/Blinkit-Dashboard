@@ -35,6 +35,8 @@ The project aims to analyze sales, revenue, customer preferences, and product pe
 This dashboard enables business leaders to identify profitable product lines, optimize inventory, and enhance customer satisfaction by making data-driven decisions.
 
 **Keywords :** Power BI, Data Visualization, Business Intelligence, Sales Dashboard, Blinkit, DAX, Power Query, Interactive Dashboard.
+
 📸 Preview
- 
-![Dashboard Preview](image.jpg)
+
+Show what the dashboard look like: 
+![Dashboard Preview](Snapshot of the dashboard.png)
