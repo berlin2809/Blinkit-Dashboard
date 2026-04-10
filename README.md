@@ -1,40 +1,35 @@
 
 **Project Title:** Blinkit Sales Performance Dashboard
 
-**Purpose of the Project:**
-The project aims to analyze sales, revenue, customer preferences, and product performance for Blinkit (an online grocery delivery platform). The dashboard helps business users quickly identify top-performing product categories, track revenue trends, and understand customer purchasing behavior for better decision-making.
+# 🛒 Blinkit Sales Performance Dashboard – Power BI
 
-**Key Objectives:**
+An end-to-end Power BI dashboard analyzing Blinkit's sales across 3 outlet tiers, 4 outlet sizes, and multiple product categories.
 
-* Monitor overall sales and revenue performance.
-* Analyze product categories and sub-categories contributing to revenue.
-* Identify customer purchase trends and preferences.
-* Provide management with an interactive, visual dashboard for decision support.
+## 📊 Key Metrics
+| KPI | Value |
+|-----|-------|
+| Total Sales Analyzed | ₹1.2M+ |
+| Outlet Tiers | 3 (Tier 1, 2, 3) |
+| Outlet Sizes | 4 types |
+| Tier 3 Revenue Contribution | ~45% of total |
 
-**Technologies Used:**
+## ✅ Features
+- KPIs: Total Sales, Avg Sales per Outlet, Item Count, Avg Customer Rating
+- Dynamic slicers for outlet type, size, and location tier
+- Bar, Line, and Donut charts for category performance
+- Identified Tier 3 outlets as top revenue contributors
 
-* **Power BI** – for data visualization and dashboard creation.
-* **DAX (Data Analysis Expressions)** – for calculated measures and KPIs.
-* **Power Query (M Language)** – for data transformation and cleaning.
+## 🛠️ Tools Used
+- Microsoft Power BI (DAX, Power Query)
+- Excel (Data Source)
 
-**Data Source:**
+## 🚀 How to Use
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Use filters to explore outlet-wise and category-wise performance
 
-* The dataset is extracted from **Blinkit’s sales data (CSV/Excel format)**.
-* Data is pre-processed using Power Query before being loaded into the Power BI data model.
-* Data Model includes relationships between products, categories, sales, and customers.
-
-**Key Features of the Dashboard:**
-
-* KPI cards to show total sales, revenue, and profit.
-* Category-wise and sub-category-wise analysis of sales.
-* Customer segmentation insights.
-* Trend analysis using time-based visuals.
-* Fully interactive filters and slicers for deep dive analysis.
-
-**Project Impact:**
-This dashboard enables business leaders to identify profitable product lines, optimize inventory, and enhance customer satisfaction by making data-driven decisions.
-
-**Keywords :** Power BI, Data Visualization, Business Intelligence, Sales Dashboard, Blinkit, DAX, Power Query, Interactive Dashboard.
+## 💡 Key Insight
+Tier 3 outlets contributed ~45% of total revenue despite lower individual outlet size — indicating high volume demand in smaller cities.
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
